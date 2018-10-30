@@ -1,5 +1,5 @@
 {
-	"name": "enyo/dropzone",
+	"name": "thinktandem/dropzone",
 	"description": "Handles drag and drop of files for you.",
 	"homepage": "http://www.dropzonejs.com",
 	"keywords": [
