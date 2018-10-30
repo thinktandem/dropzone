@@ -2,6 +2,7 @@
 	"name": "thinktandem/dropzone",
 	"description": "Handles drag and drop of files for you.",
 	"homepage": "http://www.dropzonejs.com",
+	"type": "drupal-library",
 	"keywords": [
 		"dragndrop",
 		"drag and drop",
